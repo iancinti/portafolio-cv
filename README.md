@@ -1,3 +1,7 @@
-# portafolio-cv
+Deploys: 
 
-Deploy: https://iancinti.netlify.app/
+Netlify: https://iancinti.netlify.app/
+
+Vercel:  https://portafolio-CV-red.vercel.app/
+
+
